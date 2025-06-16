@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "191306925703",
+    "firebase_url": "https://harilalaina-fifaliana-default-rtdb.firebaseio.com",
+    "project_id": "harilalaina-fifaliana",
+    "storage_bucket": "harilalaina-fifaliana.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:191306925703:android:252e41bcdc25b844021a22",
+        "android_client_info": {
+          "package_name": "com.culinaryevolution.culinaryevolutionapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcFNo7ref6AI94SpgSWIMQvsPRNwWhwDI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:191306925703:android:a12d4c095ce8ab33021a22",
+        "android_client_info": {
+          "package_name": "com.fifaliana.harilalainafifaliana"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcFNo7ref6AI94SpgSWIMQvsPRNwWhwDI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
